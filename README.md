@@ -2,7 +2,7 @@
 
 Here is the DigitalTwin for Wafer packaging process
 
-1. Download the Python Code
+1. Download the Zip file which include the Python Code
 2. Pip Install all the packages
 3. Run the Python Code
 4. Click the URL(http://127.0.0.1:5000)
