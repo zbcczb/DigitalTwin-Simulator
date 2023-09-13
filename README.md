@@ -6,6 +6,6 @@ Here is the DigitalTwin for Wafer packaging process
 2. Pip Install all the packages
 3. Run the Python Code
 4. Click the URL(http://127.0.0.1:5000)
-5. Click Upload button to upload the Excel File(User can set up the Product and wafer number)
+5. Click Upload button to upload the Excel File(User can set up the Product and wafer number), # we have provided example Excel file input here(Product 1, Product 2, and Product 3)
 6. Click Submit All Button once you finish upload
 7. Click the Thoughput, Utilization and Queue to see these output.
