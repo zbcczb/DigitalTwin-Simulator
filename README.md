@@ -8,5 +8,5 @@ Here is the DigitalTwin for Wafer packaging process
 4. Run the Python Code
 5. Click the URL(http://127.0.0.1:5000)
 6. Click Upload button to upload the Excel File(User can set up the Product and wafer number), # we have provided example Excel file input here(Product 1, Product 2, and Product 3)
-7. Click Submit All Button once you finish upload
+7. Click Submit All Button(Submit All is the model without FOUP transfer time, Submit All 2 is the model with FOUP transfer time) once you finish upload
 8. Click the Thoughput, Utilization and Queue to see these output.
