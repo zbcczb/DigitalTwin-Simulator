@@ -4,7 +4,7 @@ Here is the DigitalTwin for Wafer packaging process
 
 1. Download the Zip file which include the Python Code
 2. Click app to run the simulator in Python
-3. Pip Install all the packages
+3. Pip Install all the packages(pip install numpy==1.24.4 , pip install scipy==1.10.1, pip install flask), if you already install the numpy and scipy, please pip uninstall numpy and scipy, and install the specific version.
 4. Run the Python Code
 5. Click the URL(http://127.0.0.1:5000)
 6. First,click Upload button to upload the System Excel File, subsequently Product Excel File(User can set up the tools in System File, Product and wafer number in the product file). We have provided example Excel file input here(Product 1, Product 2, and System)
